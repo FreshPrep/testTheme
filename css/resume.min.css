@@ -33,6 +33,8 @@ section.resume-section .resume-item .resume-date{min-width:none}@media (min-widt
 section#headbg{
 background-image:url('../img/fpbg1.jpg');
     width:100%;
-    height:auto;
+    height:100%;
     background-size:cover;
+    background-position:center center;
+    
 }
