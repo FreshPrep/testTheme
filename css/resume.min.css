@@ -30,9 +30,9 @@ section.resume-section .resume-item .resume-date{min-width:none}@media (min-widt
         {padding-top:3rem!important;padding-bottom:3rem!important}}
 .bg-primary{background-color:#FFA500!important}
 .text-primary{color:#FFA500!important}a{color:#bd5d38}a:active,a:focus,a:hover{color:#824027}
-section.resume-section#headbg{
-background-image: url('../img/fpbg1.jpg');
-    width: 100%;
-    height: auto;
-    background-size: cover;
+section.resume-section p-3 p-lg-5 d-flex d-column #headbg{
+background-image:url('../img/fpbg1.jpg');
+    width:100%;
+    height:auto;
+    background-size:cover;
 }
