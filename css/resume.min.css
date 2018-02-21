@@ -29,7 +29,7 @@ section.resume-section .resume-item .resume-date{min-width:none}@media (min-widt
 .bg-primary{background-color:#FFA500!important}
 .text-primary{color:#FFA500!important}a{color:#bd5d38}a:active,a:focus,a:hover{color:#824027}
 #header{
-    background-image: url('img/fpbg1.jpg');
+    background-image: url('/img/fpbg1.jpg');
     width: 100%;
     height: auto;
     background-size: cover;
