@@ -145,9 +145,4 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
-#headbg{
-    background-image: url('../img/fpbg1.jpg');
-    width: 100%;
-    height: auto;
-    background-size: cover;
-}
+
